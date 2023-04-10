@@ -5,7 +5,7 @@
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
     "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "repository": "https://github.com/AlfanshdoMithprofessor/MR.PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -77,7 +77,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "MR_TM_MOVIES",
             "required": false
         },
         "IMDB": {
